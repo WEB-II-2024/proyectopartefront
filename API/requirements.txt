@@ -1,0 +1,8 @@
+flask
+flask-cors
+fpdf
+pymongo
+pypdf2
+python-multipart
+requests
+jwt-decode
